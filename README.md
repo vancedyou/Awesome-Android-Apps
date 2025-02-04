@@ -18,7 +18,7 @@
 |Seal           |  下载   | https://github.com/JunkFood02/Seal                   | 基于yt-dlp下载器 |
 |李跳跳         |  工具   | https://t.me/ddgksf2023/7                            | 跳过开屏广告 |
 |Youtube Vanced | 视频    | https://vancedyoutube.org/                           | 去广告、画中画 |
-|GreenTuber     | 视频    | https://t.me/ddgksf2023/180                          | 油管三方客户端，可下载视频 |
+|GreenTuber     | 视频    | https://t.me/ddgksf2023/180  https://youtubevance.org/                        | 油管三方客户端，可下载视频 |
 
 
 ```diff
